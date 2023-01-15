@@ -1,0 +1,3 @@
+https://render.com   for node api  https://smartai-sojb.onrender.com/
+https://vercel.com/  for project   https://smart-9ew4579tp-mlohar1122.vercel.app/
+
